@@ -1,0 +1,5 @@
+output_parquet/
+checkpoints/
+*.parquet
+*.pyc
+__pycache__/
